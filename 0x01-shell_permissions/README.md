@@ -10,3 +10,4 @@ A script that gives no permissions to the owner and group but gives all permissi
 A script for rwxr-x-wx
 A script that sets the mode of the file hello the same as olleh’s mode.
 script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+A script that creates a directory called my_dir with permissions 751 in the working directory.
