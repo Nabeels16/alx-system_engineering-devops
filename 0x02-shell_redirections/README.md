@@ -5,3 +5,4 @@ Display the content of two files
 To display the last 10 lines of a file
 To display the last 10 lines.
 To display the third line of a file
+Create a file that ends with a new line
