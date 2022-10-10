@@ -3,3 +3,5 @@ Write a script that displays a confused smiley "(Ôo)'
 Display content of a file.
 Display the content of two files
 To display the last 10 lines of a file
+To display the last 10 lines.
+To display the third line of a file
