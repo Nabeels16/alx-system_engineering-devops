@@ -9,3 +9,4 @@ Create a file that ends with a new line
 Save current state of directory
 Write a script that duplicates the last line of the 77file iacta
 No more javascript
+A script that counts the number of directories and sub-directories in the current directory.
