@@ -11,3 +11,5 @@ Write a script that duplicates the last line of the 77file iacta
 No more javascript
 A script that counts the number of directories and sub-directories in the current directory.
 A script that takes a list of words as input and prints only words that appear exactly once.
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
